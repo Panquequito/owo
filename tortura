@@ -5,22 +5,22 @@ font-family: 'Slabo 27px';
   font-size: 9px; 
   color: #fff; 
   position:absolute;
-  margin-left: 270px;
+  margin-left: 230px;
 padding: 9px;
 }
 .cosote {
     border: 5px solid #000;
-    height: 570px;
+    height: 550px;
     margin-top: 20px;
     overflow: hidden;
-    width: 550px;
+    width: 500px;
 }
-.otrocosote { width: 550px;
-height: 570px; 
+.otrocosote { width: 500px;
+height: 550px; 
     overflow: hidden;
   position: relative;
   position: relative; 
-  top: 470px;
+  top: 440px;
   transition:ease-in-out 1.5s;-webkit-transition:ease-in-out 1.5s;-ms-transition:ease-in-out 1.5s;-moz-transition:ease-in-out 1.5s;}
 .cosote:hover .otrocosote{top: 0px;}
 .nombresote {
@@ -39,7 +39,7 @@ font-family: 'Ruthie';
   font-size: 40px; 
   position: relative;
     letter-spacing: 3px;
-  top: 70px;
+  top: 50px;
   color: #fff; 
   text-align: center; 
   text-shadow: 2px 2px #000,0px 0px 20px rgb(149, 151, 146);
@@ -67,19 +67,18 @@ font-family: 'Ruthie';
     text-align: center; 
     width: 186px;
 }
-.suicidio { height: 200px;  margin-top: 10px;
+.suicidio { height: 180px;
     background-color: #000;
     overflow: hidden;
-  width: 380px; margin-left: 7px;
+  width: 330px; margin-left: 7px;
   color: #fff; letter-spacing: 1px; }
 .intento, .subnormalidad, .hemorroides {
-    height: 150px;
-  display:none;
-  color: #fff;
-      font-size: 14px; 
+    height: 130px;
+  font-size: 12px;
+  display:none; 
     overflow: auto;
     padding: 17px;
-    width: 350px;  
+    width: 300px;  
     text-align: justify;
 }
 .subnormalidad, .hemorroides {position: relative;}
@@ -89,7 +88,7 @@ font-family: 'Ruthie';
   background-color:#000;
   color: #fff;
   position: relative;
-  top: 10px;
+  top: -4px;
   left: 15px;
   margin: 5px;
     overflow: hidden;
