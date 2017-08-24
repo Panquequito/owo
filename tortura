@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Ruthie|Slabo+27px');
+.io {
+font-family: 'Slabo 27px';
+  font-style: normal;
+  font-size: 9px; 
+  color: #fff; 
+  position:absolute;
+  margin-left: 270px;
+padding: 9px;
+}
+.cosote {
+    border: 5px solid #000;
+    height: 560px;
+    margin-top: 20px;
+    overflow: hidden;
+    padding: 15px;
+    width: 540px;
+}
+.otrocosote { width: 550px;
+height: 570px; 
+    overflow: hidden;
+  position: relative;
+  position: relative; 
+  top: 470px;
+  transition:ease-in-out 1.5s;-webkit-transition:ease-in-out 1.5s;-ms-transition:ease-in-out 1.5s;-moz-transition:ease-in-out 1.5s;}
+.cosote:hover .otrocosote{top: 0px;}
+.nombresote {
+font-family: 'Great Vibes';
+  font-style: normal;
+  font-size: 70px; 
+  color: #fff; 
+  text-align: center; 
+  padding: 10px; 
+  font-style: italic;
+  text-shadow: 2px 2px #000,0px 0px 20px rgb(149, 151, 146);
+}
+.desesperacion {
+font-family: 'Ruthie';
+  font-style: normal;
+  font-size: 40px; 
+  position: relative;
+    letter-spacing: 3px;
+  top: 70px;
+  color: #fff; 
+  text-align: center; 
+  text-shadow: 2px 2px #000,0px 0px 20px rgb(149, 151, 146);
+}
+.agonia {
+  border: 2px solid #000;
+    margin-top: 10px;
+  opacity: .9;
+  margin-left: 15px;
+    overflow: hidden;
+    width: 200px;
+}
+.tortura {
+    height: 14px;
+  color: #fff;
+  font-family: 'Slabo 27px';
+    font-size: 13px; 
+  padding: 3px;
+      padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+  letter-spacing: 2px;
+  margin: 3px;
+  background-color: #000;
+    text-align: center; 
+    width: 186px;
+}
+.suicidio { height: 200px;  margin-top: 20px;
+    background-color: #000;
+    overflow: hidden;
+  width: 380px;
+  color: #fff; letter-spacing: 1px; }
+.intento, .subnormalidad, .hemorroides {
+    height: 150px;
+  display:none;
+  color: #fff;
+      font-size: 14px; 
+    overflow: auto;
+    padding: 17px;
+    width: 350px;  
+    text-align: justify;
+}
+.subnormalidad, .hemorroides {position: relative;}
+.coso1, .coso2, .coso3 {
+    border: 2px solid #000;
+    height: 60px;
+  background-color:#000;
+  color: #fff;
+  position: relative;
+  top: 10px;
+  left: 15px;
+  margin: 5px;
+    overflow: hidden;
+    width: 120px;  
+}
